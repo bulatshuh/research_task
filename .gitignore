@@ -1,0 +1,4 @@
+.pytest_cache/
+training_venv/
+.idea/
+__pycache__/
